@@ -1,4 +1,4 @@
-# FireProof
+# Fire Detection
 An innovative way to detect fire and thus execute safety protocol for residents in a buliding.
 
 ## Table of Contents
